@@ -1,5 +1,5 @@
 # springAmpqDemo
-Spring Boot application to demo Spring AMPQ
+Spring Boot application to demo Request Reply messaging. At this point, it's not using Spring AMQP, but just Apache Camel.
 
 To Run:
 
