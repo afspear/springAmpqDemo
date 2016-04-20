@@ -1,6 +1,8 @@
 # springAmpqDemo
 Spring Boot application to demo Request Reply messaging. At this point, it's not using Spring AMQP, but just Apache Camel.
 
+More on Apache Camel Request/Reply here: http://camel.apache.org/request-reply.html
+
 To Run:
 
 first start docker
